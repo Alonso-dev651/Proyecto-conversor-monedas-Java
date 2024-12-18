@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c635b798-c572-4cde-b30b-7de7e30ceaa9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/ConsultaApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/Conversor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto-conversor-monedas-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-conversor-monedas-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
